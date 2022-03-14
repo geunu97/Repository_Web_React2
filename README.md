@@ -16,4 +16,4 @@
 
 ## 📖 정리
 
-👉 https://chivalrous-hose-00f.notion.site/API-4d5bf5660b7647ca88d5d1d2c7416de2
+👉 https://geunu97-4.notion.site/API-4d5bf5660b7647ca88d5d1d2c7416de2
