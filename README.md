@@ -8,7 +8,7 @@
 
 - 스타일링 styled-components
 
-- 외부 뉴스 API (axios)
+- 외부 API (axios, REST API)
 
 - SPA
 
