@@ -12,7 +12,7 @@
 
 - SPA
 
-- 성능 최적화 (React.memo, useCallback, useEffect)
+- 성능 최적화 (React.memo, useCallback)
 
 ## 📖 정리
 
